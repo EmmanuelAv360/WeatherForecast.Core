@@ -1,4 +1,4 @@
-namespace WetherForeCast;
+namespace WeatherForecast.Core;
 
 public class WeatherForecast
 {
